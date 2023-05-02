@@ -20,7 +20,7 @@ author: Wang Siyuan
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Assignment 9: "https://gitea.shuishan.net.cn/xslu_dase_ecnu_edu_cn/cloud-computing-course/src/branch/master/Assignment9.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
